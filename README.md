@@ -1,24 +1,20 @@
----
-````
-<h1 align="center">🛡️ PhishGuard — AI Powered Phishing Protection</h1>
+# 🛡️ **PhishGuard — AI Powered Phishing Protection**
 
-<p align="center">
-  <img src="extension/logo.png" width="180" alt="PhishGuard Logo"/>
-</p>
-
-<p align="center">
-  <b>Real-time machine learning Chrome extension that flags malicious websites before they steal your data.</b><br>
-  Protecting users from phishing → safely, silently & intelligently.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Chrome-Extension-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Backend-Flask-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Model-RandomForest-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Category-Cybersecurity-red?style=flat-square"/>
-</p>
+> Real-time machine learning Chrome extension that flags malicious websites before they steal your data — protecting users from phishing safely, silently & intelligently.
 
 ---
+
+### 🔗 Tech Stack
+| Component | Technology |
+|----------|------------|
+| Browser  | Chrome Extension |
+| Backend  | Flask API |
+| Model    | Random Forest |
+| Domain   | Cybersecurity |
+
+---
+
+![Logo](PhishGuardLogo.png)
 
 ## 🚀 Features
 ✔ Real-time URL safety scanning  
