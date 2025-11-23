@@ -141,9 +141,7 @@ PRs, feature requests, research suggestions — all welcome.
 
 ## 🧍 Author
 
-<p align="center">
-  <b><a href="https://in.linkedin.com/in/nitanshu-tak-89a1ba289">Nitanshu Tak</a></b>
-</p>
+**[Nitanshu Tak](https://in.linkedin.com/in/nitanshu-tak-89a1ba289)**
 B.Tech — Cloud Computing & Virtualization
 Cybersecurity + AI Research
 
