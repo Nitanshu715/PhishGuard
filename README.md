@@ -14,7 +14,10 @@
 
 ---
 
-![Logo](extension/PhishGuardLogo.png)
+<p align="center">
+  <img src="extension/PhishGuardLogo.PNG" width="200">
+</p>
+
 
 ## 🚀 Features
 ✔ Real-time URL safety scanning  
