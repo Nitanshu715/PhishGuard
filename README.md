@@ -49,14 +49,11 @@ graph TD;
 
 ---
 
-## 📸 Screenshots
+## 📸 Conditions
 
-| Safe URL             | Malicious URL             |
-| -------------------- | ------------------------- |
-| 🟢 `OK — Safe`       | 🔴 `X — Malicious`        |
-| ![](assets/safe.png) | ![](assets/malicious.png) |
-
-*(Optional: replace with your own screenshots)*
+| 🟢 Safe URL | 🟠 Suspicious URL | 🔴 Malicious URL |
+|------------|------------------|-----------------|
+| ![](assets/safe.png) | ![](assets/suspicious.png) | ![](assets/malicious.png) |
 
 ---
 
@@ -159,6 +156,5 @@ If you like this project
 ---
 
 <p align="center">🛡️ PhishGuard — Protect before it’s too late.</p>
-```
 
 ---
