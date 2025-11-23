@@ -1,5 +1,3 @@
----
-
 ````md
 <h1 align="center">🛡️ PhishGuard — AI Powered Phishing Protection</h1>
 
