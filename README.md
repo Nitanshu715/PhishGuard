@@ -54,7 +54,6 @@ graph TD;
 | 🟢 Safe URL | 🟠 Suspicious URL | 🔴 Malicious URL |
 |------------|------------------|-----------------|
 |These URL are safe to access.|These URL are Suspecious.|These URL are Malicious and you must avoid them.|
-|------------|------------------|-----------------|
 
 ---
 
