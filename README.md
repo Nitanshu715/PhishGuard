@@ -22,7 +22,7 @@
 ## 🚀 Features
 ✔ Real-time URL safety scanning  
 ✔ AI model trained on labeled phishing datasets  
-✔ Chrome badge indicator (🟢 safe | 🟡 suspicious | 🔴 malicious)  
+✔ Chrome badge indicator (🟢 safe | 🟠 suspicious | 🔴 malicious)  
 ✔ Popup panel showing URL + malicious score  
 ✔ Offline fallback heuristics if ML model not available  
 ✔ Open-source — easy to modify, extend and deploy
@@ -53,7 +53,8 @@ graph TD;
 
 | 🟢 Safe URL | 🟠 Suspicious URL | 🔴 Malicious URL |
 |------------|------------------|-----------------|
-| ![](assets/safe.png) | ![](assets/suspicious.png) | ![](assets/malicious.png) |
+|These URL are safe to access.|These URL are Suspecious.|These URL are Malicious and you must avoid them.|
+|------------|------------------|-----------------|
 
 ---
 
