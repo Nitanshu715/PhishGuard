@@ -123,7 +123,7 @@ python train_model.py
 ```
 
 This generates → `model.pkl`
-Move that file → `backend/pkl_model/model.pkl`
+Move that file → `backend/model.pkl`
 
 ---
 
