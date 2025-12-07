@@ -127,6 +127,19 @@ Move that file → `backend/model.pkl`
 
 ---
 
+## How to Install PhishGuard (Manual Installation)
+
+1. Download the ZIP file from the Releases section
+2. Extract the ZIP file
+3. Open Google Chrome
+4. Go to: chrome://extensions
+5. Enable "Developer Mode" (top-right)
+6. Click "Load Unpacked"
+7. Select the extracted PhishGuard folder
+8. Done! PhishGuard is now active.
+
+---
+
 ## 🧿 Vision
 
 PhishGuard was built to **reduce phishing attacks using open-source AI** — a lightweight security layer that runs locally and respects privacy.
